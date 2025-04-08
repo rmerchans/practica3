@@ -1,2 +1,3 @@
 Fichero que va a causar el conflicto!
 desde la rama main
+nueva linea desde la rama main
