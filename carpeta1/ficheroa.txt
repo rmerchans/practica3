@@ -1,0 +1,4 @@
+Contenido del ficheroA en la carpeta1
+Añado una linea para comprobar cambios
+
+
