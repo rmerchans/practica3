@@ -1,0 +1,2 @@
+Fichero que va a causar el conflicto!
+desde la rama main
