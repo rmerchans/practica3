@@ -1,0 +1,4 @@
+# fichero personal de pepe
+
+## trabaja en una nueva funcionalidad y debe 
+## interrumpirla en este punto
